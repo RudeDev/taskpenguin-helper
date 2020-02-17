@@ -1,1 +1,1 @@
-# taskpenguin-email-helper
+# taskpenguin-helper
