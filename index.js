@@ -1,6 +1,6 @@
-const Main = require("./controller");
-const main = new Main();
+const Celesc = require("./controller/celesc");
+const celesc = new Celesc();
 
 (async () => {
-  main.sayHello();
+  await celesc.login();
 })();
