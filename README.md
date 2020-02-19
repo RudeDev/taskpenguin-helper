@@ -1,4 +1,4 @@
-# taskpenguin-helper
+# TaskPenguin-Helper
 
 ### Overview
 
